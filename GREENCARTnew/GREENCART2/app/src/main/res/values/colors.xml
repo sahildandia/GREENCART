@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#4CAF50</color>
+    <!-- Aliases for compatibility with existing theme/selector names -->
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="light_beige">#F9FBE7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="accent_yellow">#FFCA28</color>
+    <color name="text_charcoal">#212121</color>
+    <color name="textMedium">#757575</color>
+    <color name="text_medium">#757575</color>
+</resources>

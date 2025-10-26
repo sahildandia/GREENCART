@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">GREENCART</string>
+    <string name="default_web_client_id">284646679965-q6v4lkb76bkov2booasvp06ho19h3to2.apps.googleusercontent.com</string>
+
+    <!-- Home screen strings -->
+    <string name="search_hint">Search by product or brand</string>
+    <string name="scan_product">Scan Product</string>
+    <string name="browse_brands">Browse Brands</string>
+    <string name="eco_tips">Eco Tips</string>
+    <string name="challenges">Challenges</string>
+    <string name="top_deals_title">Top eco-friendly deals of the week</string>
+    <string name="daily_quote_title">Daily Eco Quote</string>
+    <string name="daily_quote">"Switching to bamboo saves 10kg plastic/year."</string>
+
+    <!-- Bottom nav titles -->
+    <string name="title_home">Home</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_rewards">Rewards</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- Screen headers/placeholders -->
+    <string name="explore_header">Explore eco-friendly brands</string>
+    <string name="rewards_header">Your Green Points</string>
+    <string name="profile_header">Your Profile</string>
+    <string name="scan_header">Scan a product to see its eco score</string>
+    <string name="tips_header">Eco Tips &amp; Guides</string>
+    <string name="community_header">Community &amp; Challenges</string>
+    <string name="impact_header">Your Impact Dashboard</string>
+    <string name="learn_header">Learn &amp; Blogs</string>
+
+    <!-- Scanner UI strings -->
+    <string name="scan_instruction">Point your camera at a product</string>
+    <string name="scan_flash_on">Flash ON</string>
+    <string name="scan_flash_off">Flash OFF</string>
+    <string name="scan_result_label">Result:</string>
+    <string name="scan_result_format">Result: %1$s</string>
+
+    <!-- Profile screen strings -->
+    <string name="profile_avatar_cd">User avatar</string>
+    <string name="profile_scans">Scans</string>
+    <string name="profile_points">Green Points</string>
+    <string name="profile_reset_stats">Reset stats</string>
+    <string name="profile_sign_out">Sign out</string>
+    <string name="profile_member_since">Member since %1$s</string>
+
+    <!-- Challenges UI strings -->
+    <string name="challenge_complete">Complete</string>
+    <string name="challenge_completed">Completed</string>
+    <string name="challenge_reward_label">Reward +%1$d pts</string>
+
+    <!-- Challenges toast messages -->
+    <string name="challenge_completed_toast">Challenge completed! +%1$d points</string>
+    <string name="challenge_already_completed">Already completed</string>
+
+    <string name="eco_score_label">Eco %1$d</string>
+
+    <!-- Rewards screen strings -->
+    <string name="rewards_tier_header">Your Tier</string>
+    <string name="rewards_progress_label">Progress</string>
+    <string name="rewards_recent_activity_header">Recent Activity</string>
+    <string name="rewards_recent_empty">No recent activity</string>
+    <string name="rewards_redeem_cta">Redeem Points</string>
+
+    <!-- Prize strings added for new UI -->
+    <string name="prize_image_cd">Prize image</string>
+    <string name="prize_title_placeholder">Prize</string>
+    <string name="prize_points_placeholder">%1$d points</string>
+    <string name="prize_redeem">Redeem</string>
+</resources>

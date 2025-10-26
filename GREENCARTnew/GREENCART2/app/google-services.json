@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284646679965",
+    "project_id": "greencart-468e9",
+    "storage_bucket": "greencart-468e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284646679965:android:33024ad5951fdbfc3b3b74",
+        "android_client_info": {
+          "package_name": "com.example.greencart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284646679965-q6v4lkb76bkov2booasvp06ho19h3to2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN7c5ipE2qvTT2TQbEwfeNIr3mr8eAoSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284646679965-q6v4lkb76bkov2booasvp06ho19h3to2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
